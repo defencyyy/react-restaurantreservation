@@ -58,47 +58,49 @@
             },
             {
                 "id": 6,
-                "image": "./dinner4.png",
-                "title": "MUSSELS SOUP",
-                "category": "Dinner"
+                "image": "./cream.PNG",
+                "title": "Cream Cheese French Toast",
+                "category": "Dinner",
+                "des": " Bruleed French Toast. Cream Cheese. Summer Fruits.Maple Syrup. French Cream"
             },
             {
-                "id": 7,
-                "image": "./dinner5.png",
-                "title": "ITALIAN SPAGHETTI",
-                "category": "Dinner"
+              "id": 7,
+              "image": "./dulce.PNG",
+              "title": "Iced Dulce De Leche",
+              "category": "Coffee"
+              
             },
             {
                 "id": 8,
-                "image": "./dinner6.png",
-                "title": "GRILLED FISH",
-                "category": "Dinner"
+                "image": "./lychee.PNG",
+                "title": "Lychee Strawberry Smoothie",
+                "category": "Smoothie"
             }
         ],
         "team": [
             {
                 "id": 1,
                 "image": "./team_member_1.png",
-                "name": "JOHNATHAN TYLER",
-                "designation": "Founder & Head Chef"
+                "name": "AERON JUSTIN QUIAMBAO",
+                "designation": "Front-End Developer"
             },
             {
                 "id": 2,
                 "image": "./team_member_2.png",
-                "name": "WADE WARREN",
-                "designation": "Sous Chef"
+                "name": "ARSENIC SALANGSANG",
+                "designation": "Front-End Developer"
             },
             {
                 "id": 3,
                 "image": "./team_member_3.png",
-                "name": "JHON DOE",
-                "designation": "Fast Food Chef"
+                "name": "CYRUS NATHANIEL FLORENDO",
+                "designation": "FBack-End Developer"
             },
             {
                 "id": 4,
                 "image": "./team_member_4.png",
-                "name": "ALEX COAL",
-                "designation": "Senior Chef"
+                "name": "JEWEL VAIDA JAIME  ",
+                "designation": "Back-End Developer"
             }
         ],
         "testimonials": [
@@ -107,7 +109,7 @@
                 "image": "./review1.png",
                 "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
                 "rating": 4,
-                "userName": "Jane Cooper"
+                "userName": "Aeron Justin Quiambao"
             },
             {
                 "id": 2,
