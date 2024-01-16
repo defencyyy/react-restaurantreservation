@@ -9,15 +9,15 @@ const About = () => {
         <div className="banner">
           <div className="top">
             <h1 className="heading">ABOUT US</h1>
-            <p>The only thing we're serious about is food.</p>
+            <p>
+              Tablo is a "table" for gathering. A space where communities are
+              built and inspiring moments are shared.
+            </p>
           </div>
           <p className="mid">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure,
-            voluptas atque. Consectetur omnis saepe voluptas dicta, doloribus
-            eaque. A sunt asperiores sint sapiente vitae adipisci totam, tempora
-            aut porro natus minus saepe quasi et libero commodi ipsa obcaecati,
-            soluta repellendus, alias recusandae culpa quidem laboriosam
-            praesentium? Distinctio impedit libero tenetur!
+            Tablo Kitchen x Café is a community cafe and restaurant. Designed
+            and created to be a place of creativity, community, and comfort
+            food.
           </p>
           <Link to={"menu"} spy={true} smooth={true} duration={500}>
             Explore Menu{" "}
@@ -27,7 +27,10 @@ const About = () => {
           </Link>
         </div>
         <div className="banner">
-          <img src="/about.png" alt="about" />
+          <div>
+            <img src="table.jpg" alt="about" />
+          
+          </div>
         </div>
       </div>
     </section>

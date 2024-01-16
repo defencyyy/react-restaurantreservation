@@ -7,9 +7,8 @@ const Menu = () => {
         <div className="heading_section">
           <h1 className="heading">POPULAR DISHES</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni rem
-            ut veniam impedit. Inventore exercitationem recusandae dicta
-            explicabo vitae incidunt!
+            Every dish is inspired by family favorites and memories that connect
+            you to a special place, we call home.
           </p>
         </div>
         <div className="dishes_container">
@@ -18,6 +17,7 @@ const Menu = () => {
               <div className="card" key={element.id}>
                 <img src={element.image} alt={element.title} />
                 <h3>{element.title}</h3>
+                <h7>{element.des}</h7>
                 <button>{element.category}</button>
               </div>
             );
