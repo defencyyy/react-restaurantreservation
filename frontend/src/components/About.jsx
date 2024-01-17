@@ -19,17 +19,19 @@ const About = () => {
             and created to be a place of creativity, community, and comfort
             food.
           </p>
-          <Link to={"menu"} spy={true} smooth={true} duration={500}>
-            Explore Menu{" "}
+          {/* <Link to={"menu"} spy={true} smooth={true} duration={500}>
+          Explore Menu{"/react-restaurantreservation/frontend/public/TABLO QR MENU DEC 2023 NEW.pdf "}
             <span>
               <HiOutlineArrowNarrowRight />
             </span>
-          </Link>
+          </Link> */}
+          <a href="https://drive.google.com/file/d/1sMrACUVH50Dys16jr7OTCwJ1YbgzxCOu/view">
+            Explore Menu
+          </a>
         </div>
         <div className="banner">
           <div>
             <img src="table.jpg" alt="about" />
-          
           </div>
         </div>
       </div>

@@ -327,11 +327,11 @@ nav svg {
 /**********************************************************************************************************************/
 .about {
   display: flex;
-  min-height: 100vh;
+  min-height: 90vh;
   justify-content: center;
   align-items: center;
   background-color: #c9a28e;
-  
+ 
 }
 .about .container {
   max-width: 1500px;
@@ -474,14 +474,21 @@ nav svg {
 }
 .qualities .container .card {
   flex: 1;
-  display: flex;
-  flex-direction: column;
+  display:flex;
+  flex-direction:column;
   align-items: center;
   text-align: center;
-  padding: 0 100px;
+  padding:100px;
+
+  
 }
 .qualities .container .card img {
   margin-bottom: 25px;
+  padding: 50px 50px;
+  width: 250%;
+  height: 60%;
+  border-radius: 100px;
+  
 }
 .qualities .container .card .title {
   font-size: 1.8rem;

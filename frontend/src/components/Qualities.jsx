@@ -7,9 +7,15 @@ const Qualities = () => {
       <div className="container">
         {data[0].ourQualities.map((element) => (
           <div className="card" key={element.id}>
+            <h1>OUR BRANCHES IN </h1>
             <img src={element.image} alt={element.title} />
             <p className="title">{element.title}</p>
             <p className="description">{element.description}</p>
+
+            <p className="location">
+              {element.location} 
+            </p>
+            <a href={element.locate}>click here</a>
           </div>
         ))}
       </div>
