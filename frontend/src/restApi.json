@@ -39,49 +39,49 @@
                 "id": 1,
                 "image": "./rice steak.PNG",
                 "title": "Herb Lemon Chicken Steak",
-                "category": "Appertizer",
+                "category": "Flame Grilled Platter",
                 "des": "Fresh Herb Marinate. Chicken Leg Quarter. Roasted Potatoes. Side Veggies. Garlic Rice. Pepper Gravy."       
             },
             {
                 "id": 2,
                 "image": "./smoke salmon.PNG",
                 "title": "Smoked Salmon Salad",
-                "category": "Appertizer",
+                "category": "Salad and Greens",
                 "des": "Chilled BBQ Chicken Slices. Cucumber. Tomatoes. Red Onions. Purple Cabbage. Olives. Mixed Greens. BBQ Mayo Dressing. Shaved Cheddar Cheese."
             },
             {
               "id": 3,
               "image": "./creamy.PNG",
               "title": "Creamy Beef Salpicado",
-              "category": "Appertizer",
+              "category": "Tablo Original",
               "des": "Tender Beef. Mushrooms. Creamy Garlic-Pepper Sauce. Buttered Veggies. Plain Rice.  " 
             },
             {
                 "id": 4,
                 "image": "./shrimp.PNG",
                 "title": "Shrimp + Sundried Tomato Cream",
-                "category": "Appertizer",
+                "category": "Pasta Platter",
                 "des" : "Shrimp. Zucchini. Mushroom. Sundried Tomatoes. Housemade Tomato Cream Sauce. Basil. Pasta. Parmesan. Garlic Bread."
             },
             {
                 "id": 5,
                 "image": "./spicy.PNG",
                 "title": "Spicy Honey Fried Chicken Sandwich",
-                "category": "Lunch",
+                "category": "Tablo Original",
                 "des": "Boneless Fried Chicken Steak. Labuyo Honey. Mixed Greens. Coleslaw. Pickled Dill Cucumber. Buttered Brioche. Potato Chips. "
             },
             {
                 "id": 6,
                 "image": "./cream.PNG",
                 "title": "Cream Cheese French Toast",
-                "category": "Dinner",
+                "category": "Beverages",
                 "des": " Bruleed French Toast. Cream Cheese. Summer Fruits.Maple Syrup. French Cream"
             },
             {
               "id": 7,
               "image": "./dulce.PNG",
               "title": "Iced Dulce De Leche",
-              "category": "Coffee"
+              "category": "Beverages"
               
             },
             {
