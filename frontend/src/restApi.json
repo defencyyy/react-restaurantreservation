@@ -1,0 +1,126 @@
+{
+    "data": [
+        {"ourQualities" : [
+            {
+                "id": 1,
+                "image": "./qc.PNG",
+                "title": "SCT.BORROMEO",
+                "description": "14A Scout Borromeo St. South Triangle Diliman, Quezon City",
+                "location": "Location",
+                "locate":" https://www.google.com/maps/place/Tablo+Kitchen+x+Cafe+Timog+QC/@14.6373708,121.0298666,17z/data=!3m1!4b1!4m6!3m5!1s0x3397b7318a8019ef:0xab16ec11d4010725!8m2!3d14.6373656!4d121.0324415!16s%2Fg%2F11qr1htz2w?entry=ttu"
+            },
+            {
+                "id": 2,
+                "image": "./bfhomes.PNG",
+                "title": "BF HOMES",
+                "description": "224 Aguirre Ave BF Homes, Parañaque, Philippines, 1715, Metro Manila", 
+                "location": "Location",
+                "locate":"https://www.google.com/maps/place/Tablo+Kitchen+x+Cafe+-+Aguirre+Ave/@14.4540837,121.0122688,17z/data=!3m1!4b1!4m6!3m5!1s0x3397cf0b2203d5c7:0xf25d577d7c4a3f3f!8m2!3d14.4540786!4d121.0171397!16s%2Fg%2F11j2vxnv3_?entry=ttu"
+            },
+            {
+              "id": 3,
+              "image": "./bfresort.PNG",
+              "title": "BF RESORT",
+              "description": "#2 Rodis St., JB Tan Avenue, BF Resort Village Las Piñas National Capital Region",
+              "location": "Location",
+              "locate": "https://www.google.com/maps/place/Tablo+Kitchen+x+Cafe+BF+Resort+Village/@14.4376264,120.9877453,17z/data=!3m1!4b1!4m6a3m5!1s0x3397d11a6bbaeed1:0x65079c7c9687df12!8m2!3d14.4376212!4d120.9903202!16s%2Fg%2F11h7ptblqw?entry=ttu"
+            },
+            {
+              "id": 4,
+              "image": "./soutlp.PNG",
+              "title": "SOUTH LAS PINAS",
+              "description": "L. Hernandez Avenue Almanza Uno Las Pinas 1750 Las Piñas Metro Manila",
+                "location": "Location",
+              "locate": "https://www.google.com/maps/place/Tablo+Kitchen+x+Cafe+South+%7C+Las+Pi%C3%B1as/@14.4376264,120.9877453,17z/data=!4m6!3m5!1s0x3397d119c8c6e579:0x1e47ebfbbc6f8b9b!8m2!3d14.435472!4d121.0112453!16s%2Fg%2F11rj3hjsw4?entry=ttu"
+            }
+        ],
+        "dishes": [
+            {
+                "id": 1,
+                "image": "./rice steak.PNG",
+                "title": "Herb Lemon Chicken Steak",
+                "category": "Flame Grilled Platter",
+                "des": "Fresh Herb Marinate. Chicken Leg Quarter. Roasted Potatoes. Side Veggies. Garlic Rice. Pepper Gravy."       
+            },
+            {
+                "id": 2,
+                "image": "./smoke salmon.PNG",
+                "title": "Smoked Salmon Salad",
+                "category": "Salad and Greens",
+                "des": "Chilled BBQ Chicken Slices. Cucumber. Tomatoes. Red Onions. Purple Cabbage. Olives. Mixed Greens. BBQ Mayo Dressing. Shaved Cheddar Cheese."
+            },
+            {
+              "id": 3,
+              "image": "./creamy.PNG",
+              "title": "Creamy Beef Salpicado",
+              "category": "Tablo Original",
+              "des": "Tender Beef. Mushrooms. Creamy Garlic-Pepper Sauce. Buttered Veggies. Plain Rice.  " 
+            },
+            {
+                "id": 4,
+                "image": "./shrimp.PNG",
+                "title": "Shrimp + Sundried Tomato Cream",
+                "category": "Pasta Platter",
+                "des" : "Shrimp. Zucchini. Mushroom. Sundried Tomatoes. Housemade Tomato Cream Sauce. Basil. Pasta. Parmesan. Garlic Bread."
+            },
+            {
+                "id": 5,
+                "image": "./spicy.PNG",
+                "title": "Spicy Honey Fried Chicken Sandwich",
+                "category": "Tablo Original",
+                "des": "Boneless Fried Chicken Steak. Labuyo Honey. Mixed Greens. Coleslaw. Pickled Dill Cucumber. Buttered Brioche. Potato Chips. "
+            },
+            {
+                "id": 6,
+                "image": "./cream.PNG",
+                "title": "Cream Cheese French Toast",
+                "category": "Beverages" ,
+                "des": " Bruleed French Toast. Cream Cheese. Summer Fruits.Maple Syrup. French Cream"
+            },
+            {
+              "id": 7,
+              "image": "./dulce.PNG",
+              "title": "Iced Dulce De Leche",
+              "category": "Beverages"
+              
+            },
+            {
+                "id": 8,
+                "image": "./lychee.PNG",
+                "title": "Lychee Strawberry Smoothie",
+                "category": "Smoothie"
+            }
+        ],
+     
+    
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "SERVICES",
+                "link": "qualities"
+            },
+            {
+                "id": 4,
+                "title": "TEAM",
+                "link": "team"
+            },
+            {
+                "id": 5,
+                "title": "RESERVATION",
+                "link": "reservation"
+            }
+        ]
+    
+    } 
+    ]
+}
